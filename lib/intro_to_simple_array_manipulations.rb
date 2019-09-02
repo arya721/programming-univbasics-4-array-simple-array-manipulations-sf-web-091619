@@ -9,5 +9,5 @@ def using_unshift(countries_in_western_africa, next_country)
 end
 
 def using_unshift(size)
-  countries_in_western_africa.size(+1)
+  countries_in_western_africa.size()
 end
