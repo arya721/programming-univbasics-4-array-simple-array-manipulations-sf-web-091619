@@ -29,7 +29,7 @@ def using_pop(continents)
 end
 #code ends
 
-def using_concat(my_favorite_things)
+def using_concat(my_favorite_things, morefavs)
 my_favorite_things = ["flatiron school"]
 morefavs = ["raindrops on roses", "whiskers on kittens", "sports cars"]
 using_concat.concat
