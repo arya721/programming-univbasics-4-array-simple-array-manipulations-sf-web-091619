@@ -8,11 +8,16 @@ def using_unshift(countries_in_western_africa, next_country)
   countries_in_western_africa.unshift("Staten Island" )
 end
 
+
+
 def using_pop(countries_in_western_africa)
   countries_in_western_africa = ["Benin", "Carpe Verde", "Antarctica"]
   countries_in_western_africa.pop
 end
 
+
+
+
 def pop_with_args(dog_breeds)
-  small_dogs.pop
+  dog_breeds.pop
 end
