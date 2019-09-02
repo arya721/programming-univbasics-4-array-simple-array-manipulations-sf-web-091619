@@ -22,3 +22,10 @@ def using_pop(countries_in_western_africa)
   countries_in_western_africa = ["Benin", "Carpe Verde", "Antarctica"]
   countries_in_western_africa.pop
 end
+
+
+
+
+def shift_with_args(brands_removed)
+  brands_removed.shift(2)
+end
