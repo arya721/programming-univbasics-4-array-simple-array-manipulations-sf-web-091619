@@ -8,4 +8,4 @@ def using_unshift(countries_in_western_africa, next_country)
   countries_in_western_africa.unshift("Staten Island")
 end
 
-  using_unshift.size(+1)
+  countries_in_western_africa.size(+1)
