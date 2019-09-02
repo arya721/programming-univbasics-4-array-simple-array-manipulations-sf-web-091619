@@ -19,9 +19,9 @@ end
 
 
 def using_pop(continents)
-  continents = ["Benin", "Carpe Verde", "Antarctica"]
+  continents = ["g", "Carpe ", "g", "Benin", "Carpe Verde", "Antarctica"]
   continents.pop
-  continents.size("6")
+  continents.size = ("6")
 end
 
 
