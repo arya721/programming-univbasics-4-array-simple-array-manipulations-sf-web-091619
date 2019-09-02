@@ -17,15 +17,12 @@ im_so_over_this_city.shift
 end
 
 
+def shift_with_args(brands_removed)
+  brands_removed.shift(2)
+end
+
 
 def using_pop(continents)
   continents = ["g", "Carpe ", "g", "Benin", "Carpe Verde", "Antarctica"]
   continents.pop
-end
-
-
-
-
-def shift_with_args(brands_removed)
-  brands_removed.shift(2)
 end
