@@ -30,6 +30,6 @@ end
 #code ends
 
 def using_concat(my_favorite_things, more_favs)
-my_favorite_things = ["yo"]
+my_favorite_things = ["yo, no"]
 more_favs = ["hi"]
 end
