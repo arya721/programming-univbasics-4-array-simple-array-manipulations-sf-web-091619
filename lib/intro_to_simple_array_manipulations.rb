@@ -30,7 +30,7 @@ end
 #code ends
 
 #edit below code
-def using_concat(my_favorite_things, morefavs, all_my_favs)
+def using_concat(all_my_favs)
 all_my_favs.concat
 end
 #code ends
