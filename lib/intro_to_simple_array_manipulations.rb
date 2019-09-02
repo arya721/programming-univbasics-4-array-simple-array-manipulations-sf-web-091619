@@ -40,5 +40,5 @@ end
 
 def using_uniq(countries_in_western_africa, next_country)
   countries_in_western_africa = ["Benin", "Benin", "Gambia", "Liberia"]
-  countries_in_western_africa.uniq
+  countries_in_western_africa.uniq()
 end
