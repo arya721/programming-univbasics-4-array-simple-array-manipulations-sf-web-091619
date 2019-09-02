@@ -30,5 +30,5 @@ end
 
 
 def using_concat(my_favorite_things, more_favs)
-all_my_favs.concat("hi")
+more_favs.concat("hi")
 end
