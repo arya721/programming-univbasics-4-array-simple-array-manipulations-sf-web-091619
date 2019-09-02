@@ -1,2 +1,2 @@
 using_push[array, string]
-using_push.push("next_color")
+using_push.push(string)
