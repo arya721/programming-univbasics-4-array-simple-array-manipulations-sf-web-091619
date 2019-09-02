@@ -21,6 +21,7 @@ end
 def using_pop(countries_in_western_africa)
   countries_in_western_africa = ["Benin", "Carpe Verde", "Antarctica"]
   countries_in_western_africa.pop
+  continents.size = 6
 end
 
 
