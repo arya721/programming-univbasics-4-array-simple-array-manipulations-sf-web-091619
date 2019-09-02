@@ -6,5 +6,6 @@ end
 def using_unshift(countries_in_western_africa, next_country)
   countries_in_western_africa = ["Benin", "Carpe Verde", "Gambia", "Liberia", "Mali"]
   countries_in_western_africa.unshift("Staten Island")
-  updated_array.size(+1)
 end
+
+  using_unshift.size(+1)
