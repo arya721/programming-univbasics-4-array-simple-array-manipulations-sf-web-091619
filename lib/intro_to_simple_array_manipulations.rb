@@ -30,6 +30,7 @@ end
 #code ends
 
 def using_concat(my_favorite_things, more_favs)
-my_favorite_things = ["yo, no"]
-more_favs = ["["raindrops on roses", "whiskers on kittens", "sports cars", "flatiron school"]"]
+my_favorite_things = ["flatiron school"]
+my_favorite_things = ["raindrops on roses", "whiskers on kittens", "sports cars"]
+all_my_favs.concat
 end
