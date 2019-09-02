@@ -27,7 +27,7 @@ def using_pop(continents)
   continents = ["g", "Carpe ", "g", "Benin", "Carpe Verde", "Antarctica"]
   continents.pop
 end
-
+#code ends
 
 def using_concat(my_favorite_things, more_favs)
 more_favs.concat = ["hi"]
