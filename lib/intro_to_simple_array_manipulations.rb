@@ -18,7 +18,7 @@ end
 
 
 
-def using_pop(continents)
+def using_pop()
   continents = ["Benin", "Carpe Verde", "Antarctica"]
   continents.pop
   continents.size(6)
