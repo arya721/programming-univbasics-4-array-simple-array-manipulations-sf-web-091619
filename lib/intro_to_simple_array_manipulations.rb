@@ -21,7 +21,7 @@ end
 def using_pop(continents)
   continents = ["g", "Carpe ", "g", "Benin", "Carpe Verde", "Antarctica"]
   continents.pop
-  continents.length - 1
+  continents.length = - 1
 end
 
 
