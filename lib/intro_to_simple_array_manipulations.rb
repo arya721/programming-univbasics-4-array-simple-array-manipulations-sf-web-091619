@@ -21,7 +21,7 @@ def shift_with_args(brands_removed)
   brands_removed.shift(2)
 end
 
-
+#edit below code
 def using_pop(continents)
   continents = ["g", "Carpe ", "g", "Benin", "Carpe Verde", "Antarctica"]
   continents.pop
