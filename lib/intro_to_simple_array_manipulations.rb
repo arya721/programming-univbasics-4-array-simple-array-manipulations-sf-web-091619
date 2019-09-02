@@ -10,5 +10,5 @@ end
 
 def using_pop(countries_in_western_africa)
   countries_in_western_africa = ["Benin", "Carpe Verde", "Gambia", "Liberia"]
-  countries_in_western_africa.unshift("Staten Island" )
+  countries_in_western_africa.pop
 end
