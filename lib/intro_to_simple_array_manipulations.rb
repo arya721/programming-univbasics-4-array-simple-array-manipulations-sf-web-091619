@@ -11,5 +11,5 @@ end
 def using_pop(countries_in_western_africa)
   countries_in_western_africa = ["Benin", "Carpe Verde", "Antarctica"]
   countries_in_western_africa.pop
-  countries_in_western_africa.size
+  countries_in_western_africa.size(6)
 end
