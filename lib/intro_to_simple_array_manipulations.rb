@@ -25,7 +25,7 @@ end
 #edit below code
 def using_pop(continents)
   continents = ["g", "Carpe ", "g", "Benin", "Carpe Verde", "Antarctica"]
-  array.pop = -1
+  continents.pop
 end
 #code ends
 
