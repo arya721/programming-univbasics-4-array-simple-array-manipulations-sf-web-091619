@@ -36,7 +36,3 @@ morefavs = ["raindrops on roses", "whiskers on kittens", "sports cars"]
 all_my_favs.concat(my_favorite_things,morefavs )
 end
 #code ends
-
-
-
-
