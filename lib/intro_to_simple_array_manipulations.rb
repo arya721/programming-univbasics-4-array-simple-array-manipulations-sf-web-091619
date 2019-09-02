@@ -8,7 +8,7 @@ def using_unshift(countries_in_western_africa, next_country)
   countries_in_western_africa.unshift("Staten Island" )
 end
 
-def using_pop(countries_in_western_africa)
+def using_pop(continents.size)
   countries_in_western_africa = ["Benin", "Carpe Verde", "Antarctica"]
   countries_in_western_africa.pop
 end
