@@ -43,3 +43,9 @@ end
 def using_flatten(instruments)
   instruments.flatten
 end
+
+
+def using_delete_at(famous_robots, integer)
+  integer = 2
+  famous_robots.delete_at(integer)
+end
