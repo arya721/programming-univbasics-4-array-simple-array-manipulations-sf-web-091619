@@ -22,11 +22,9 @@ def shift_with_args(brands_removed)
 end
 
 
-#edit below code
 def using_pop(continents)
   continents.pop
 end
-#code ends
 
 #edit below code
 def using_concat(array)
