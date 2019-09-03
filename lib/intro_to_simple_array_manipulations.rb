@@ -44,6 +44,6 @@ end
 
 
 def using_delete(continents)
-  continents = ["g", "Carpe ", "g", "Benin", "Carpe Verde", "Antarctica"]
-  continents.delete("g")
+  continents = ["0apple", "1apple", "2apple", "3apple", "4apple", "5apple",]
+  continents.delete("0apple")
 end
