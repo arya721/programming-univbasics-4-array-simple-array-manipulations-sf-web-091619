@@ -31,8 +31,8 @@ end
 
 #edit below code
 def using_concat(my_favorite_things)
-my_favorite_things = ["flatiron school"]
-my_favorite_things.concat = ["raindrops on roses", "whiskers on kittens", "sports cars"]
+  string = "Good"
+  string.concat(" morning", " to", " you")
 end
 #code ends
 
