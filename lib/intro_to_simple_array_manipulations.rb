@@ -30,9 +30,9 @@ end
 #code ends
 
 #edit below code
-def using_concat(string)
-  string = "Good"
-  string.concat(" morning", " to", " you")
+def using_concat(array)
+  array = ['a', 'b']
+  array.concat(['c'], ['d'])
 end
 #code ends
 
