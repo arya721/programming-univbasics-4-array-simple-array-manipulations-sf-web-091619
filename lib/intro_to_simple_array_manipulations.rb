@@ -37,11 +37,9 @@ def using_uniq(countries_in_western_africa)
   countries_in_western_africa.uniq
 end
 
-#edit below code
-def using_delete(array,string)
-array.delete
+def using_delete(my_list, my_element)
+  my_list.delete(my_element)
 end
-#code ends
 
 
 def using_flatten(instruments)
