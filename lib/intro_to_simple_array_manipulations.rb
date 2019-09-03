@@ -41,3 +41,9 @@ def using_uniq(countries_in_western_africa)
   countries_in_western_africa = ["Benin", "Carpe Verde", "Benin", "Liberia"]
   countries_in_western_africa.uniq
 end
+
+
+def using_delete(array,string)
+  continents = ["g", "Carpe ", "g", "Benin", "Carpe Verde", "Antarctica"]
+  continents.delete("g")
+end
