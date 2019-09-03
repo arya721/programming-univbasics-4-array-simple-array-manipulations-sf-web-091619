@@ -39,7 +39,7 @@ end
 
 #edit below code
 def using_delete(array, famous_robots)
-  famous_robots.delete
+array.delete
 end
 #code ends
 
