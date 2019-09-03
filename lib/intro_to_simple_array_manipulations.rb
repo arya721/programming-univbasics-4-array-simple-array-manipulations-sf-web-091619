@@ -45,5 +45,5 @@ end
 
 def using_delete(array,string)
   continents = ["g", "Carpe ", "g", "Benin", "Carpe Verde", "Antarctica"]
-  continents.delete("g")
+  continents.delete(["g"])
 end
