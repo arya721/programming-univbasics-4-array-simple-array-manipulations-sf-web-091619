@@ -30,7 +30,7 @@ end
 #code ends
 
 #edit below code
-def using_concat(my_favorite_things)
+def using_concat(string)
   string = "Good"
   string.concat(" morning", " to", " you")
 end
