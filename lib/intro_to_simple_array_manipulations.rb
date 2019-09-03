@@ -30,14 +30,14 @@ end
 #code ends
 
 #edit below code
-def using_concat(my_favorite_things, morefavs, all_my_favs)
+def using_concat(my_favorite_things)
 my_favorite_things = ["flatiron school"]
-morefavs = ["raindrops on roses", "whiskers on kittens", "sports cars"]
-all_my_favs.concat()
+my_favorite_things.concat = ["raindrops on roses", "whiskers on kittens", "sports cars"]å
 end
 #code ends
 
 
 def using_uniq(countries_in_western_africa)
+  countries_in_western_africa = ["Benin", "Carpe Verde", "Benin", "Liberia"]
   countries_in_western_africa.uniq
 end
