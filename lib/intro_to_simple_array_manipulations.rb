@@ -48,3 +48,8 @@ def using_delete(continents)
   continents.delete("g")
 end
 #code ends
+
+
+def using_flatten(instruments)
+  instruments.flatten
+end
