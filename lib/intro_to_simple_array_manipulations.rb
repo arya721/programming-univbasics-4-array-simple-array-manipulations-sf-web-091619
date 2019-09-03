@@ -44,5 +44,5 @@ end
 
 
 def using_delete(continents)
-  continents.delete("0apple")
+  continents.delete()
 end
