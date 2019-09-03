@@ -42,8 +42,9 @@ def using_uniq(countries_in_western_africa)
   countries_in_western_africa.uniq
 end
 
-
+#edit below code
 def using_delete(continents)
   continents = ["g", "Carpe ", "g", "Benin", "Carpe Verde", "Antarctica"]
   continents.delete("g")
 end
+#code ends
