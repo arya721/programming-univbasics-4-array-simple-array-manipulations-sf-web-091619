@@ -41,7 +41,7 @@ def using_uniq(countries_in_western_africa)
 end
 
 #edit below code
-def using_delete(continents)
+def using_delete(famous_robots)
   continents.delete
 end
 #code ends
