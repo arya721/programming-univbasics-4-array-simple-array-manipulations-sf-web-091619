@@ -42,7 +42,7 @@ end
 
 #edit below code
 def using_delete(famous_robots)
-  continents.delete
+  famous_robots.delete
 end
 #code ends
 
