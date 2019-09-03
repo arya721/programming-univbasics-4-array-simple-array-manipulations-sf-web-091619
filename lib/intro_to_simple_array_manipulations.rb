@@ -38,7 +38,6 @@ end
 
 
 def using_uniq(countries_in_western_africa)
-  countries_in_western_africa = ["Benin", "Carpe Verde", "Benin", "Liberia"]
   countries_in_western_africa.uniq
 end
 
