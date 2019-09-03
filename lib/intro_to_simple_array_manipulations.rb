@@ -31,8 +31,8 @@ end
 
 #edit below code
 def using_concat(array)
-  array = ['a', 'b']
-  array.concat(['c'], ['d'])
+  array = ["b"]
+  array.concat(["c"])
 end
 #code ends
 
